@@ -1,11 +1,11 @@
 
 
-```markdown
-# 📤 Metigan CSV Email Sender
+
+# Metigan CSV Email Sender
 
 Este projeto é um exemplo simples de como enviar e-mails em massa utilizando a API do [Metigan](https://metigan.com), a partir de uma lista de e-mails em um arquivo CSV.
 
-## 🚀 Como usar
+## Como usar
 
 ### 1. Clone o repositório
 
